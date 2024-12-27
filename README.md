@@ -10,7 +10,7 @@ This repository contains fundamental techniques and examples for image analysis,
 
   - Spot detection
 
-<img src="./example/spot.png" width="300"/><img src="./example/spot%20result.png" width="300"/>
+<img src="./example/spot.png" width="300"/><img src="./example/spot%20result.png" width="303"/>
 
   - sklearn
     
