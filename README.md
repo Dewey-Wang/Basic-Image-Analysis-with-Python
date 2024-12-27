@@ -5,8 +5,20 @@ This repository contains fundamental techniques and examples for image analysis,
 ## Features
 - **Basic Techniques**:
   - Image segmentation
+
+![segmentation](./example/segmentation.png)
+
   - Spot detection
+<br><img src="./example/spot.png" width="300"/><img src="./example/spot%20result.png" width="300"/><br>
+
+  - sklearn
+    
+![sklearn](./example/sklearn.png)
+
   - Image alignment
+    
+![alignment](./example/image%20aligment.png)
+
 - **Libraries Used**:
   - [scikit-learn](https://scikit-learn.org/)
   - [OpenCV](https://opencv.org/)
